@@ -4,5 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shravani-Narkar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1470-shuffle-the-array](https://github.com/shravani-Narkar/leetcode/tree/master/1470-shuffle-the-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shravani-Narkar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shravani-Narkar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
