@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shravani-Narkar/leetcode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/shravani-Narkar/leetcode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
