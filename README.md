@@ -59,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/shravani-Narkar/leetcode/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/shravani-Narkar/leetcode/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/shravani-Narkar/leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
