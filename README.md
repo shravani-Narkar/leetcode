@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravani-Narkar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/shravani-Narkar/leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
