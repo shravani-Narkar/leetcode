@@ -77,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shravani-Narkar/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/shravani-Narkar/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1407-top-travellers](https://github.com/shravani-Narkar/leetcode/tree/master/1407-top-travellers) |
+| [1587-bank-account-summary-ii](https://github.com/shravani-Narkar/leetcode/tree/master/1587-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
