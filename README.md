@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shravani-Narkar/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shravani-Narkar/leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/shravani-Narkar/leetcode/tree/master/0231-power-of-two) |
 | [3870-count-commas-in-range](https://github.com/shravani-Narkar/leetcode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/shravani-Narkar/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1407-top-travellers](https://github.com/shravani-Narkar/leetcode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/shravani-Narkar/leetcode/tree/master/1587-bank-account-summary-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shravani-Narkar/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shravani-Narkar/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
