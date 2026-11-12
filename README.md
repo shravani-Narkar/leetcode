@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/shravani-Narkar/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1407-top-travellers](https://github.com/shravani-Narkar/leetcode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/shravani-Narkar/leetcode/tree/master/1587-bank-account-summary-ii) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/shravani-Narkar/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Bit Manipulation
 |  |
 | ------- |
